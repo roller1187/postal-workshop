@@ -11,7 +11,7 @@
 * https://postal.redhatgov.io/
 
 #### You can get a websession with oc CLI at:
-* http://openshift-wetty-client-cicd.apps.postal.redhatgov.io/
+* http://openshift-wetty-client-occli.apps.postal.redhatgov.io/wetty
 * If you want to use your own CLI installed locally you will need:
   * git installed - https://git-scm.com/downloads
   * oc in your PATH - https://mirror.openshift.com/pub/openshift-v3/clients/3.11.117/
